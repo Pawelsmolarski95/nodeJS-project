@@ -1,0 +1,170 @@
+[
+  {
+    "gender": "M",
+    "name": "Jan",
+    "lastName": "Nowak",
+    "age": 72,
+    "mail": "jan.nowak@gmail.com",
+    "number": 935170642
+  },
+  {
+    "gender": "F",
+    "name": "Asia",
+    "lastName": "Nowak",
+    "age": 31,
+    "mail": "asia.nowak@gmail.com",
+    "number": 227404017
+  },
+  {
+    "gender": "M",
+    "name": "Łukasz",
+    "lastName": "Wolak",
+    "age": 53,
+    "mail": "łukasz.wolak@gmail.com",
+    "number": 859323953
+  },
+  {
+    "gender": "M",
+    "name": "Łukasz",
+    "lastName": "Obama",
+    "age": 29,
+    "mail": "łukasz.obama@gmail.com",
+    "number": 811088063
+  },
+  {
+    "gender": "F",
+    "name": "Ola",
+    "lastName": "Jarosz",
+    "age": 61,
+    "mail": "ola.jarosz@gmail.com",
+    "number": 546455724
+  },
+  {
+    "gender": "F",
+    "name": "Anna",
+    "lastName": "Nowak",
+    "age": 27,
+    "mail": "anna.nowak@gmail.com",
+    "number": 753751886
+  },
+  {
+    "gender": "F",
+    "name": "Kamila",
+    "lastName": "Obama",
+    "age": 44,
+    "mail": "kamila.obama@gmail.com",
+    "number": 735445698
+  },
+  {
+    "gender": "M",
+    "name": "Piotr",
+    "lastName": "Nowak",
+    "age": 76,
+    "mail": "piotr.nowak@gmail.com",
+    "number": 512839395
+  },
+  {
+    "gender": "M",
+    "name": "Andrzej",
+    "lastName": "Obama",
+    "age": 41,
+    "mail": "andrzej.obama@gmail.com",
+    "number": 973186210
+  },
+  {
+    "gender": "F",
+    "name": "Ola",
+    "lastName": "Wolak",
+    "age": 70,
+    "mail": "ola.wolak@gmail.com",
+    "number": 344988128
+  },
+  {
+    "gender": "F",
+    "name": "Anna",
+    "lastName": "Obama",
+    "age": 70,
+    "mail": "anna.obama@gmail.com",
+    "number": 208241622
+  },
+  {
+    "gender": "F",
+    "name": "Anna",
+    "lastName": "Wolak",
+    "age": 62,
+    "mail": "anna.wolak@gmail.com",
+    "number": 361809942
+  },
+  {
+    "gender": "F",
+    "name": "Kasia",
+    "lastName": "Obama",
+    "age": 63,
+    "mail": "kasia.obama@gmail.com",
+    "number": 815438960
+  },
+  {
+    "gender": "F",
+    "name": "Ola",
+    "lastName": "Jarosz",
+    "age": 28,
+    "mail": "ola.jarosz@gmail.com",
+    "number": 908436460
+  },
+  {
+    "gender": "F",
+    "name": "Ola",
+    "lastName": "Obama",
+    "age": 39,
+    "mail": "ola.obama@gmail.com",
+    "number": 349192114
+  },
+  {
+    "gender": "M",
+    "name": "Łukasz",
+    "lastName": "Nowak",
+    "age": 48,
+    "mail": "łukasz.nowak@gmail.com",
+    "number": 862588590
+  },
+  {
+    "gender": "F",
+    "name": "Anna",
+    "lastName": "Nowak",
+    "age": 23,
+    "mail": "anna.nowak@gmail.com",
+    "number": 371637271
+  },
+  {
+    "gender": "F",
+    "name": "Kamila",
+    "lastName": "Nowak",
+    "age": 49,
+    "mail": "kamila.nowak@gmail.com",
+    "number": 686878027
+  },
+  {
+    "gender": "M",
+    "name": "Łukasz",
+    "lastName": "Obama",
+    "age": 41,
+    "mail": "łukasz.obama@gmail.com",
+    "number": 511711882
+  },
+  {
+    "gender": "M",
+    "name": "Łukasz",
+    "lastName": "Jarosz",
+    "age": 32,
+    "mail": "łukasz.jarosz@gmail.com",
+    "number": 699955281
+  },
+  {
+    "gender": "F",
+    "name": "Anna",
+    "lastName": "Jarosz",
+    "age": 32,
+    "mail": "anna.jarosz@gmail.com",
+    "number": 704232668
+  }
+]
